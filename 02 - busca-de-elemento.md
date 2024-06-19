@@ -1,3 +1,4 @@
+# busca de elemento em lista
 ```
 def busca(lista, elemento):
     tam = len(lista)
